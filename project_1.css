@@ -1,0 +1,66 @@
+body {
+    background-image: url(https://wallpaperaccess.com/full/6079797.jpg);
+}
+h1 {
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    height: 5vh;
+    flex-grow: 1px;
+    flex-shrink: 1px;
+    flex-basis: auto;
+    background-color: lightblue;
+    margin: 5px;
+    text-align: center;
+}
+a {
+    color: darkgreen;
+}
+p {
+    color: purple;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    height: 5vh;
+    flex-grow: 1px;
+    flex-shrink: 1px;
+    flex-basis: auto;
+    background-color: lightblue;
+    margin: 5px;
+    text-align: center;
+}
+h2 {
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+}
+h3 {
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+}
+li {
+    color: darkorchid;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: left;
+    flex-wrap: wrap;
+    height: 5vh;
+    flex-grow: 1px;
+    flex-shrink: 1px;
+    flex-basis: auto;
+    background-color: lightblue;
+    margin: 5px;
+}
+footer {
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+}
